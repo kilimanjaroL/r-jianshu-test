@@ -1,0 +1,17 @@
+.headerWrapper {
+  height: 57px;
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 20px;
+  line-height: 57px;
+
+  .logo {
+    width: 100px;
+    height: 56px;
+    float: left;
+  }
+
+  .right {
+    float: right;
+    margin-right: 12px;
+  }
+}
